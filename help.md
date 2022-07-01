@@ -16,9 +16,8 @@
 
 **git diff** – увидеть разницу между текущим файлом и закоммиченным файлом
 
-[!TIP]
+[!TIP] 
 You can use the following link to read more about Markdowd (https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
 
 
 ![alt text](i.webp)
-
