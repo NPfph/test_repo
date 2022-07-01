@@ -15,3 +15,7 @@
 **git checkout master** – вернуться к актуальному состоянию и продолжить работу
 
 **git diff** – увидеть разницу между текущим файлом и закоммиченным файлом
+
+[!TIP]
+You can use the following link to read more about Markdowd (https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
+
