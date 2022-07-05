@@ -24,7 +24,10 @@
 
 **git branch -d <название ветки>** – удалить ветку
 
+## Работа с ссылками 
 [!TIP] 
 You can use the following link to read more about Markdowd (https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
+
+## Работа с картинками
 
 ![alt text](i.webp)
