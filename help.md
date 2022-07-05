@@ -1,4 +1,6 @@
-# Основные команды Git
+# Инcтрукция для работы с Git
+
+## Основные команды Git
 
 **git init** – инициализация локального репозитория
 
@@ -24,6 +26,8 @@
 
 **git branch -d <название ветки>** – удалить ветку
 
+# Инструкция для работы с Markdown
+
 ## Работа с ссылками 
 [!TIP] 
 You can use the following link to read more about Markdowd (https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
@@ -31,3 +35,9 @@ You can use the following link to read more about Markdowd (https://docs.microso
 ## Работа с картинками
 
 ![alt text](i.webp)
+
+## Работа с текстом
+
+## Работа с цитатами
+
+## Работа со списками
