@@ -41,3 +41,7 @@ You can use the following link to read more about Markdowd (https://docs.microso
 ## Работа с цитатами
 
 ## Работа со списками
+
+* Строка – ненумерованные списки, символ “*” в начале строки
+
+* 1, 2, 3 … – нумерованные списки
