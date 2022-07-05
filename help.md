@@ -16,8 +16,15 @@
 
 **git diff** – увидеть разницу между текущим файлом и закоммиченным файлом
 
+git branch – посмотреть список веток в репозитории
+
+git branch <название ветки> – создать новую ветку
+
+git checkout <название ветки> – переход к другой ветке
+
+git branch -d <название ветки> – удалить ветку
+
 [!TIP] 
 You can use the following link to read more about Markdowd (https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
-
 
 ![alt text](i.webp)
