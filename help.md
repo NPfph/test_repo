@@ -34,6 +34,8 @@ You can use the following link to read more about Markdowd (https://docs.microso
 
 ## Работа с картинками
 
+Для вставки изображения в текст достаточно написать:
+![Это картинка](index.png)
 ![alt text](i.webp)
 
 ## Работа с текстом
