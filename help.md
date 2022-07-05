@@ -55,3 +55,5 @@ You can use the following link to read more about Markdowd (https://docs.microso
 ## Работа с цитатами
 
 ## Работа со списками
+
+ Чтобы увидеть ненумерованный списко *
